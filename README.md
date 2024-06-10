@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan Ignacio.</h1>
-<h3 align="center">¡Bienvenido a mi repositorio de GitHub! Soy un estudiante de Ingeniería en Sistemas de Información en la UTN FRC y me apasiona el desarrollo web. Me especializo como Full Stack Developer.</h3>
+<h3 align="center">¡Bienvenido a mi repositorio de GitHub! Estudiante de Ingeniería en Sistemas de Información en la UTN FRC y me apasiona el desarrollo web. Me especializo como Full Stack Developer.</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Portfolio](https://www.linkedin.com/in/juanignacioandradacabo/)
 
