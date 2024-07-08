@@ -1,4 +1,4 @@
-<h1 align="center">Juan Ignacio Andrade Cabo</h1>
+<h1 align="center">Juan Ignacio Andrada Cabo</h1>
 
 <p align="center">
   <strong>Bienvenido a mi perfil de GitHub!</strong><br>
