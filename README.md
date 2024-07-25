@@ -13,7 +13,7 @@
 
 ### Portafolio
 
-- 👨‍💻 Visita mi [Portfolio](https://www.linkedin.com/in/juanignacioandradacabo/) para ver todos mis proyectos.
+- 👨‍💻 Visita mi [Portfolio](https://portfoliojuaniandrada23.netlify.app/) para ver todos mis proyectos.
 
 ### Lenguajes y Herramientas
 
