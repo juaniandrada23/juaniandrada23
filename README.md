@@ -11,10 +11,6 @@
 
 ---
 
-### Portafolio
-
-- 👨‍💻 Visita mi [Portfolio](https://portfoliojuaniandrada23.netlify.app/) para ver todos mis proyectos.
-
 ### Lenguajes y Herramientas
 
 <p align="center">
