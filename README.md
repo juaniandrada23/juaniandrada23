@@ -19,46 +19,42 @@ Actualmente finalizando la carrera de **Ingeniería en Sistemas de Información*
 
 ## Stack Tecnológico
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0;">
+### Frontend
+<div align="start">
 
-<div style="text-align: center; padding: 15px 10px; border: 1px solid #333; border-radius: 8px; background-color: #f8f9fa;">
-<h4 style="margin: 0 0 12px 0; color: #333; font-size: 16px;">Frontend</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="react" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="22" alt="nextjs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="typescript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="22" alt="tailwindcss" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
 
-<div style="text-align: center; padding: 15px 10px; border: 1px solid #333; border-radius: 8px; background-color: #f8f9fa;">
-<h4 style="margin: 0 0 12px 0; color: #333; font-size: 16px;">Backend</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="22" alt="nodejs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="22" alt="express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="22" alt="nestjs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="22" alt="socketio" />
-</div>
+### Backend
+<div align="start">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
 </div>
 
-<div style="text-align: center; padding: 15px 10px; border: 1px solid #333; border-radius: 8px; background-color: #f8f9fa;">
-<h4 style="margin: 0 0 12px 0; color: #333; font-size: 16px;">Bases de Datos</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="22" alt="mongodb" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="22" alt="postgresql" />
-</div>
+### Bases de Datos
+<div align="start">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
-<div style="text-align: center; padding: 15px 10px; border: 1px solid #333; border-radius: 8px; background-color: #f8f9fa;">
-<h4 style="margin: 0 0 12px 0; color: #333; font-size: 16px;">DevOps & Cloud</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22" alt="docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="22" alt="vercel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="22" alt="aws" />
-</div>
-</div>
+### DevOps & Cloud
+<div align="start">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
