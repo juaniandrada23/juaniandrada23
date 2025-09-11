@@ -14,9 +14,6 @@
 
 Actualmente finalizando la carrera de **Ingeniería en Sistemas de Información** en la Universidad Tecnológica Nacional - Facultad Regional Córdoba.
 
-📍 **Ubicación:** Córdoba, Argentina.
-
-
 ## Stack Tecnológico
 
 ### Frontend
