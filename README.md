@@ -8,15 +8,12 @@
 
 </div>
 
-## Sobre Mí
-
-**Frontend Developer**
+## Frontend Developer
 
 Actualmente finalizando la carrera de **Ingeniería en Sistemas de Información** en la Universidad Tecnológica Nacional - Facultad Regional Córdoba.
 
 ## Stack Tecnológico
 
-### Frontend
 <div align="start">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,7 +24,6 @@ Actualmente finalizando la carrera de **Ingeniería en Sistemas de Información*
 
 </div>
 
-### Backend
 <div align="start">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,7 +33,6 @@ Actualmente finalizando la carrera de **Ingeniería en Sistemas de Información*
 
 </div>
 
-### Bases de Datos
 <div align="start">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,7 +41,6 @@ Actualmente finalizando la carrera de **Ingeniería en Sistemas de Información*
 
 </div>
 
-### DevOps & Cloud
 <div align="start">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
